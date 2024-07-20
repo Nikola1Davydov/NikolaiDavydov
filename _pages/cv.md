@@ -11,35 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A.  in Architektur, Hochschule Düsseldorf, 2023
+* B.A. in Architektur, Hochschule Düsseldorf, 2020
+* LAB 2050: How we want to build in the Future,  aac Academy for 
+Architectural Culture, März, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2023-heute: BIM-Spezialist /  BIM-Software Developer, REHUB Digitaler Planer GmbH
+  * Erstellung C# Skripten in Revit
+  * Prüfung und Qualitätssicherung modellbasierte Planungsergebnisse in Solibri
+  * Revit Plugin Entwicklung
+  * Technische Weiterentwicklung der BIM-Standards und Prozesse
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2022 - Juli 2023: Werkstudent, REHUB Digitaler Planer GmbH
+  * Erstellung C#, Python und Dynamo Skripten in Revit
+  * Prüfung und Qualitätssicherung modellbasierte Planungsergebnisse
+  * Erstellung ein neue Revit-Toolbar mit Buttons für interne Nutzung
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* April 2019 - Juli 2022:  Werkstudent, slapa oberholz pszczulny | architekten
+  * Planungsarbeit an größeren Projekten in LPH 1 bis LPH 4, sowie Flächenplänen, Grundrisse, Schnitte, Ansichten und 3D Ansichten erstellen und kontrollieren
+  * Konstruieren parametrischen BIM-Modelle
+  * Parameter und Kollisionen in BIM Modell kontrollieren und pflegen
+  * Dynamo Skripten für Revit erstellen
+
+*  Januar 2018 – Februar 2019:  Werkstudent, AAP Architekten
+  * Planungsarbeit an Ein - und Mehrfamilienhäusern. 
+  * Flächenplänen, Grundrisse, Schnitte, Ansichten und 3D Ansichten
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C#
+  * MVVM Pattern
+  * WPF
+* Python
+* pyRevit
+* Autodesk Revit 
+* Parametrischen Familien in Revit 
+* Dynamo für Revit 
+* Solibri
+* Rhinoceros
+* Grasshopper
+* RhinoInsideRevit
 
 Publications
 ======
