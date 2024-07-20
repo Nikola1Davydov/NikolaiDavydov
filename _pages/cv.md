@@ -29,7 +29,7 @@ Work experience
   * Prüfung und Qualitätssicherung modellbasierte Planungsergebnisse
   * Erstellung ein neue Revit-Toolbar mit Buttons für interne Nutzung
 
-* April 2019 - Juli 2022:  Werkstudent, slapa oberholz pszczulny | architekten
+* April 2019 - Juli 2022:  Werkstudent, slapa oberholz pszczulny architekten
   * Planungsarbeit an größeren Projekten in LPH 1 bis LPH 4, sowie Flächenplänen, Grundrisse, Schnitte, Ansichten und 3D Ansichten erstellen und kontrollieren
   * Konstruieren parametrischen BIM-Modelle
   * Parameter und Kollisionen in BIM Modell kontrollieren und pflegen
@@ -54,24 +54,3 @@ Skills
 * Grasshopper
 * RhinoInsideRevit
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
