@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Zweizügiger Gesamtschule im Park in Holzmodulbauweise"
+excerpt: "Die zweizügige Gesamtschule wurde nach einer städtebaulichen Analyse entwickelt, um den Bedarf in den Stadtteilen Flehe und Bilk zu decken. Das Schulgelände liegt südlich der Innenstadt und bietet attraktive Sportplätze sowie gute Verkehrsanbindung. Die Gebäude wurden entsprechend der Schultypologie und der grünen Umgebung gestaltet. Besonderes Augenmerk wurde auf den Innenraum und die Aussicht gelegt. Die Materialwahl konzentriert sich auf Holz und Holzmodulbau als repräsentative Baumaterialien für den Schulbau. Die Fassade spiegelt die Natur des umgebenden Parks wider, mit vertikaler Bepflanzung, Holz- und Metallelementen. <br/>
+<img src='/images/Master_4_Render_Eingang.png'> <img src='/images/Master_4_Render_Orho.png'>"
 collection: portfolio
 ---
 

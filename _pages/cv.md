@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,16 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Studium
 ======
-* M.A.  in Architektur, Hochschule Düsseldorf, 2023
-* B.A. in Architektur, Hochschule Düsseldorf, 2020
-* LAB 2050: How we want to build in the Future,  aac Academy for 
-Architectural Culture, März, 2023
+* Oktober 2020 - Juli 2023, M.A.  in Architektur, Hochschule Düsseldorf
+* Februar - März 2023, LAB 2050: How we want to build in the Future,  aac Academy for Architectural Culture
+* Oktober 2016 - Juli 2020, B.A. in Architektur, Hochschule Düsseldorf
 
-Work experience
+Beruf
 ======
-* August 2023-heute: BIM-Spezialist /  BIM-Software Developer, REHUB Digitaler Planer GmbH
+* August 2023-August2024: BIM-Spezialist /  BIM-Software Developer, REHUB Digitaler Planer GmbH
   * Erstellung C# Skripten in Revit
   * Prüfung und Qualitätssicherung modellbasierte Planungsergebnisse in Solibri
   * Revit Plugin Entwicklung
@@ -46,11 +45,13 @@ Skills
   * WPF
 * Python
 * pyRevit
+* Dynamo für Revit 
 * Autodesk Revit 
 * Parametrischen Familien in Revit 
-* Dynamo für Revit 
 * Solibri
 * Rhinoceros
 * Grasshopper
 * RhinoInsideRevit
+* html
+* css
 
