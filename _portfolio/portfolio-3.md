@@ -1,7 +1,7 @@
 ---
-title: "Zweizügiger Gesamtschule im Park in Holzmodulbauweise"
-excerpt: "Die zweizügige Gesamtschule wurde nach einer städtebaulichen Analyse entwickelt, um den Bedarf in den Stadtteilen Flehe und Bilk zu decken. Das Schulgelände liegt südlich der Innenstadt und bietet attraktive Sportplätze sowie gute Verkehrsanbindung. Die Gebäude wurden entsprechend der Schultypologie und der grünen Umgebung gestaltet. Besonderes Augenmerk wurde auf den Innenraum und die Aussicht gelegt. Die Materialwahl konzentriert sich auf Holz und Holzmodulbau als repräsentative Baumaterialien für den Schulbau. Die Fassade spiegelt die Natur des umgebenden Parks wider, mit vertikaler Bepflanzung, Holz- und Metallelementen. <br/>
-<img src='/images/Master_4_Render_Eingang.png'>"
+title: "Holzhochhaus"
+excerpt: "Das geplante Hochhaus in Düsseldorfs Stadtteil Golzheim ersetzt den alten Campus der Hochschule. Es nutzt Holz als zentrales Baumaterial, kombiniert mit Stahlbeton für den Kern und die tragenden Elemente. Die Fassade integriert Holzverkleidungen und Glasflächen, um eine dynamische Struktur zu schaffen. Das Gebäude bietet verschiedene Funktionen: ein Foyer, eine Kantine und Fitnessbereiche im Erdgeschoss, sowie Büroflächen ab dem zweiten Stockwerk. Die Gestaltung berücksichtigt die umliegende Architektur und optimiert die Nutzung des Raums mit klaren, funktionalen Strukturen. <br/>
+<img src='/images/Master_2_Render_Persp.png'>"
 collection: portfolio
 ---
 
