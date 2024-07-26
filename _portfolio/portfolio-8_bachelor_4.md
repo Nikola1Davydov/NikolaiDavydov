@@ -1,7 +1,7 @@
 ---
 title: "Landhaus in der Uckermarkt"
 excerpt: "Das Haus befindet sich in einem kleinen Ort und verbindet traditionelle Bauweise mit modernen Elementen. Es ist ein Satteldachhaus mit Terrassenanbau und zwei Satteldächern. Die Fassade zur Landschaft ist verglast, um Offenheit zu schaffen. Die Konstruktion besteht aus traditionellem Mauerwerk mit Holzverkleidung und Brettsperrholz-Dach. Eine Betonbodenplatte bildet das Fundament. Das Innere des Hauses ist hell und einfach gestaltet, bietet aber komfortablen Bewegungsraum. Eine Durchfahrt hinter dem Haus ermöglicht Parken. Insgesamt verbindet das Design ländliche Tradition mit modernem Charakter.<br/>
-<img src='/images/Master_2_Render_Persp.png'>"
+<img src='/images/Bachelor_4_Render_Persp.jpg'>"
 collection: portfolio
 ---
 
