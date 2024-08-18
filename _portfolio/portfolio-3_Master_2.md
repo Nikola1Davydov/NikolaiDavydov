@@ -187,10 +187,6 @@ Aufzüge, Elektrorä
 <br/>
 <img src='/images/MA2/ma2 (23).png'>"
 <br/>
-<img src='/images/MA2/ma2 (24).png'>"
-<br/>
-<img src='/images/MA2/ma2 (25).png'>"
-<br/>
 <img src='/images/MA2/ma2 (26).png'>"
 <br/>
 <img src='/images/MA2/ma2 (27).png'>"
