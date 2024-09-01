@@ -6,6 +6,8 @@ collection: portfolio
 ---
 
 <br/>
+<img src='/images/BA1/Bachelor_1_Render_Persp.jpg'>
+<br/>
 <img src='/images/BA1/11.jpg'>
 <br/>
 <img src='/images/BA1/GR fur Portfolio.jpg'>

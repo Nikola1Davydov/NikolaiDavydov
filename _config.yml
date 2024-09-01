@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "BIM Developer"
   location         : "Neuss, Germany"
-  employer         : "Hochschule Düsseldorf"
-  uri              : # URL
+  employer         : "digitales bauen"
+  uri              :  https://digitales-bauen.com/
   email            : "nik_davydov_1992@outlook.com" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Nikolai Davydov"
+  linkedin         : https://www.linkedin.com/in/nikolai-davydov-4359bba1/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
