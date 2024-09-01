@@ -6,10 +6,10 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/BA4/Fertig 3 Nachts.jpg'>"
+<img src='/images/BA4/Fertig 3 Nachts.jpg'>
 <br/>
-<img src='/images/BA4/Fertig 1 Nacht.jpg'>"
+<img src='/images/BA4/Fertig 1 Nacht.jpg'>
 <br/>
-<img src='/images/BA4/Fertig 1.jpg'>"
+<img src='/images/BA4/Fertig 1.jpg'>
 <br/>
-<img src='/images/BA4/Grundr-1.jpg'>"
+<img src='/images/BA4/Grundr-1.jpg'>

@@ -6,10 +6,10 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/MA1/Layout final-1.jpg'>"
+<img src='/images/MA1/Layout final-1.jpg'>
 <br/>
-<img src='/images/MA1/Layout final-2.jpg'>"
+<img src='/images/MA1/Layout final-2.jpg'>
 <br/>
-<img src='/images/MA1/Layout final-3.jpg'>"
+<img src='/images/MA1/Layout final-3.jpg'>
 <br/>
-<img src='/images/MA1/Layout final-4.jpg'>"
+<img src='/images/MA1/Layout final-4.jpg'>

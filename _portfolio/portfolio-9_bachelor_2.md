@@ -6,15 +6,15 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/BA2/A3DUplexEntwMAppe-28.jpg'>"
+<img src='/images/BA2/A3DUplexEntwMAppe-28.jpg'>
 <br/>
-<img src='/images/BA2/A3DUplexEntwMAppe-29.jpg'>"
+<img src='/images/BA2/A3DUplexEntwMAppe-29.jpg'>
 <br/>
-<img src='/images/BA2/A3DUplexEntwMAppe-30.jpg'>"
+<img src='/images/BA2/A3DUplexEntwMAppe-30.jpg'>
 <br/>
-<img src='/images/BA2/A3DUplexEntwMAppe-31.jpg'>"
+<img src='/images/BA2/A3DUplexEntwMAppe-31.jpg'>
 <br/>
-<img src='/images/BA2/A3DUplexEntwMAppe-32.jpg'>"
+<img src='/images/BA2/A3DUplexEntwMAppe-32.jpg'>
 <br/>
-<img src='/images/BA2/A3DUplexEntwMAppe-33.jpg'>"
+<img src='/images/BA2/A3DUplexEntwMAppe-33.jpg'>
 
