@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm BIM Developer at ...
+I'm BIM Developer at digitales bauen.
 
 My research interest are in BIM and Architecture.
 
