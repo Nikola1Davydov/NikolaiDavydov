@@ -41,10 +41,10 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-1.jpg'>"
+<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-1.jpg'>
 <br/>
-<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-2.jpg'>"
+<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-2.jpg'>
 <br/>
-<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-3.jpg'>"
+<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-3.jpg'>
 <br/>
-<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-4.jpg'>"
+<img src='/images/BA6/744451_Davydov_Nikolai_DINA1-4.jpg'>

@@ -6,26 +6,26 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/BA1/11.jpg'>"
+<img src='/images/BA1/11.jpg'>
 <br/>
-<img src='/images/BA1/GR fur Portfolio.jpg'>"
+<img src='/images/BA1/GR fur Portfolio.jpg'>
 <br/>
-<img src='/images/BA1/Grundr M120 for Portfolio.jpg'>"
+<img src='/images/BA1/Grundr M120 for Portfolio.jpg'>
 <br/>
-<img src='/images/BA1/NordAnsicht_portfolio.jpg'>"
+<img src='/images/BA1/NordAnsicht_portfolio.jpg'>
 <br/>
-<img src='/images/BA1/OstAnsicht_portfolio.jpg'>"
+<img src='/images/BA1/OstAnsicht_portfolio.jpg'>
 <br/>
-<img src='/images/BA1/SüdAnsicht_portfolio.jpg'>"
+<img src='/images/BA1/SüdAnsicht_portfolio.jpg'>
 <br/>
-<img src='/images/BA1/WestAnsicht_portfolio.jpg'>"
+<img src='/images/BA1/WestAnsicht_portfolio.jpg'>
 <br/>
-<img src='/images/BA1/Modelle for Portfolio.jpg'>"
+<img src='/images/BA1/Modelle for Portfolio.jpg'>
 <br/>
-<img src='/images/BA1/РендерЭстерьера1.jpg'>"
+<img src='/images/BA1/РендерЭстерьера1.jpg'>
 <br/>
-<img src='/images/BA1/РендерЭстерьера3.jpg'>"
+<img src='/images/BA1/РендерЭстерьера3.jpg'>
 <br/>
-<img src='/images/BA1/МатРендр.jpg'>"
+<img src='/images/BA1/МатРендр.jpg'>
 <br/>
-<img src='/images/BA1/МатРендр1.jpg'>"
+<img src='/images/BA1/МатРендр1.jpg'>

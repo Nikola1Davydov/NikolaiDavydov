@@ -6,14 +6,14 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/MA4/Plan1_Davydov_Nikolai-1.png'>"
+<img src='/images/MA4/Plan1_Davydov_Nikolai-1.png'>
 <br/>
-<img src='/images/MA4/Plan2_Davydov_Nikolai-1.png'>"
+<img src='/images/MA4/Plan2_Davydov_Nikolai-1.png'>
 <br/>
-<img src='/images/MA4/Plan3_Davydov_Nikolai-1.png'>"
+<img src='/images/MA4/Plan3_Davydov_Nikolai-1.png'>
 <br/>
-<img src='/images/MA4/Plan4_Davydov_Nikolai-1.png'>"
+<img src='/images/MA4/Plan4_Davydov_Nikolai-1.png'>
 <br/>
-<img src='/images/MA4/Plan5_Davydov_Nikolai-1.png'>"
+<img src='/images/MA4/Plan5_Davydov_Nikolai-1.png'>
 <br/>
-<img src='/images/MA4/Plan6_Davydov_Nikolai-1.png'>"
+<img src='/images/MA4/Plan6_Davydov_Nikolai-1.png'>
